@@ -1,2 +1,3 @@
 # Registration-Form-Website
 Simple CSS + HTML project to learn HTML forms and the different input types such as radio buttons, checkboxes,email,text,passwords,textareas,file and select/dropdown menus. Learned about the different attributes a input can ahve such as required, max, min, checked, rows, cols, placeholders and pattern matching. Best practices such as linking labels and inputs using for/id attributes.  Used CSS to style the form/fieldsets/inputs. Also learned about the different units such as rem and em. Implemented previous CSS skills like padding, color, margins and selectors.
+https://jonathan-scruggs.github.io/Registration-Form-Website/
